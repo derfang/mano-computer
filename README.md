@@ -1,9 +1,3 @@
----
-# README for computer
-theme: jekyll-theme-cayman
----
-README for computer
-===================
 To synthesise the VHDL code, add the following files to the project:
 * `computer.vhd`
 * `alu.vhd`
