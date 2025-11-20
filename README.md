@@ -103,8 +103,8 @@ The computer supports 16 specific instructions.
     * Observe the **State** signal to verify the 4-step transition cycle.
 
 ## 👥 Contributors
-* **[Your Name]**: Erfan Ghasry
-* **[Partner Name]**: Ali Asadi
+* Erfan Ghasry
+* Ali Asadi
 
 ---
 *Project completed in accordance with the requirements set for Project 1.*
