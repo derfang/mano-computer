@@ -6,6 +6,7 @@
 **Semester:** 1401-1402 (Second Semester)
 
 > **Note:** For complete project requirements, grading criteria, and specific algorithm details, please refer to the `Project discription.pdf` file included in this repository.
+
 > **Note:** For complete project discription read `Report of computer architecture project.pdf`, readme is but a summery
 
 ## 📖 Project Overview
